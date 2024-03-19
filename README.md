@@ -11,7 +11,7 @@ How To Install -
 3. Go to Users/login.php and try out our application. Sample user credentials can be found in users & wallet_details table.
 
 # users logins
-SPP/Users/login.php
+Go to Users/login.php
 email: user@gmail.com
 password: @User12
 
